@@ -1,7 +1,7 @@
 # DangoPlayer TV
 Port of the DangoPlayer IPTV client for Android TV and Google TV
 
-
+<img alt='DangoPlayer TV Logo' width='700' src='https://raw.githubusercontent.com/brunochanrio/DangoPlayer-TV/main/DangoPlayerTV_PlayStore_Banner.png'/>
 
 DangoPlayer TV is a port of the DangoPlayer IPTV client for Android TV and Google TV, with many features
 
